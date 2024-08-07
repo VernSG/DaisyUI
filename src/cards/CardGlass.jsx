@@ -6,7 +6,7 @@ function Card() {
     <div className="card-body glass w-full sm:w-96 max-w-xs mx-auto">
       <figure>
         <img
-          src="https://res.cloudinary.com/djsdnb4td/image/upload/v1718190192/anime_brqpf9.jpg"
+          src="https://res.cloudinary.com/djsdnb4td/image/upload/v1723019418/60960c8f-46a5-4592-8b39-8533617b8409_eu1zbz.jpg"
           alt="car!"
           className="w-full h-auto" // Ensure the image scales correctly
         />
